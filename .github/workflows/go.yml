@@ -1,3 +1,4 @@
+on: push
 steps:
 - uses: actions/checkout@main
 - uses: actions/setup-go@v1
